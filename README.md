@@ -7,7 +7,7 @@
 </div>
 
 
-Account dedicated to storing my projects and activities related to programming.
+Account dedicated to storing my projects and activities.
 
 - 🌱 Currently studying for the Certificate of Higher Technician in Multi-platform Applications Development (DAM).
 
