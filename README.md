@@ -7,7 +7,7 @@
     <br><br>
   </div>
   
-  - 🌱 Técnico superior en Desarrollo de Aplicaciones Multiplataforma (DAM) formandose en Desarrollo de Aplicaciones Web (DAW). 
+  - 🌱 Técnico superior en DAM formandose en DAW. 
   - 🌟 Jugador y coleccionista de videojuegos. También dibujo en mis tiempos libres.
 
 <br>
