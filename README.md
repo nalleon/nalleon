@@ -30,6 +30,7 @@
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+<br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -51,7 +52,7 @@
 
 <br>
 <br>
-
+ 
   <div align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nalleon&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" width="300" alt="Top Languages"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nalleon&theme=dark&hide_border=false" width="470" alt="GitHub Streak" style="vertical-align: top;"/>  
