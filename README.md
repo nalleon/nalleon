@@ -1,17 +1,12 @@
-<div align="justify">
+<div align="center">
 
-<div align="center">  
-  
-# Nabil L. A.
-###### @nalleon
+  <h1>Nabil L. A.</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5A927B&center=true&vCenter=true&width=435&lines=%40nalleon" alt="Typing SVG"/>
+  </a>
+  <br><br>
 
-</div>
-
-<div width="100%" align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nalleon&theme=transparent&hide_border=false" width="60%" /> 
-</div>
-<br>
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nalleon&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" heigth="500" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nalleon&theme=dark&hide_border=false" width="548" alt="GitHub Streak" style="vertical-align: top;"/>  
 </div>
