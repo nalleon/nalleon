@@ -5,11 +5,9 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5A927B&center=true&vCenter=true&width=435&lines=%40nalleon" alt="Typing SVG"/>
     </a>
     <br><br>
+    🌱 Técnico superior en DAM formandose en DAW. 
   </div>
   
-  - 🌱 Técnico superior en DAM formandose en DAW. 
-  - 🌟 Jugador y coleccionista de videojuegos. También dibujo en mis tiempos libres.
-
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&letterSpacing=0.2rem&pause=500&color=5A927B&repeat=false&width=435&height=30&separator=%3C&lines=;+Lenguajes)](https://git.io/typing-svg)
