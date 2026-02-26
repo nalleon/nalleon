@@ -12,8 +12,8 @@
 
 <br>
 
-## Lenguajes
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&letterSpacing=0.2rem&pause=500&color=5A927B&repeat=false&width=435&height=30&separator=%3C&lines=;+Lenguajes)](https://git.io/typing-svg)
+---
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&alt=java-logo)](https://www.java.com/en/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html5/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -22,8 +22,8 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-## Frameworks
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&letterSpacing=0.2rem&pause=500&color=5A927B&repeat=false&width=435&height=30&separator=%3C&lines=;+Frameworks)](https://git.io/typing-svg)
+---
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
@@ -34,17 +34,20 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Bases de datos
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&letterSpacing=0.2rem&pause=500&color=5A927B&repeat=false&width=435&height=30&separator=%3C&lines=;+Bases+de+datos)](https://git.io/typing-svg)
+---
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-## Testing
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&letterSpacing=0.2rem&pause=500&color=5A927B&repeat=false&width=435&height=30&separator=%3C&lines=;+Testing)](https://git.io/typing-svg)
+---
 ![JaCoCo](https://img.shields.io/badge/jacoco-%23B30000.svg?style=for-the-badge&logo=jacoco&logoColor=white)
 ![JUnit](https://img.shields.io/badge/junit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/phpunit-%23336699.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## DevOps & Herramientas
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&letterSpacing=0.2rem&pause=500&color=5A927B&repeat=false&width=435&height=35&separator=%3C&lines=;+DevOps+%26+herramientas)](https://git.io/typing-svg)
+---
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
