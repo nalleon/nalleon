@@ -5,7 +5,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5A927B&center=true&vCenter=true&width=435&lines=%40nalleon" alt="Typing SVG"/>
     </a>
     <br><br>
-    🌱 Técnico superior en DAM formandose en DAW. 
+    Técnico superior en DAM y DAW. 
   </div>
   
 <br>
