@@ -50,35 +50,6 @@
   
 <br>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&letterSpacing=0.2rem&pause=500&color=9a4a4a&repeat=false&width=435&height=40&vCenter=true&separator=%3C&lines=;+Proyectos)](https://git.io/typing-svg)
----
-
-<table width="100%">
-<tr>
-
-<td valign="middle" width="220" align="center"> <a href="https://github.com/nalleon/gameshelf"> <img src="https://opengraph.githubassets.com/1/nalleon/gameshelf" width="180px" style="border-radius:12px;" /> </a> </td>
-
-<td valign="top">
-
-### [GameShelf](https://github.com/nalleon/gameshelf)
-
-Aplicación web orientada al coleccionismo y seguimiento de progreso de tus videojuegos.
-
-<p align="justify">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-</td>
-
-</tr>
-</table>
-
 
 
 
