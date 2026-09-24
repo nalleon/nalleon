@@ -156,7 +156,7 @@ Aplicación web orientada al coleccionismo de videojuegos tanto físico como dig
 <tr>
 
 <td width="220" align="center" valign="middle">
-  <a href="https://github.com/nalleon/gameshelf">
+  <a href="https://github.com/nalleon/xp-trade">
     <img src="https://opengraph.githubassets.com/1/nalleon/xp-trade" width="180">
   </a>
 </td>
@@ -196,7 +196,7 @@ Aplicación movil orientada al coleccionismo de videojuegos tanto físico como d
 <tr>
 
 <td width="220" align="center" valign="middle">
-  <a href="https://github.com/nalleon/gameshelf">
+  <a href="https://github.com/nalleon/aed-nabil">
     <img src="https://opengraph.githubassets.com/1/nalleon/aed-nabil" width="180">
   </a>
 </td>
@@ -255,7 +255,7 @@ Repositorio que recoge todas las actividades y proyectos realizadas para la asig
 <tr>
 
 <td width="220" align="center" valign="middle">
-  <a href="https://github.com/nalleon/gameshelf">
+  <a href="https://github.com/nalleon/pgl-nabil">
     <img src="https://opengraph.githubassets.com/1/nalleon/pgl-nabil" width="180">
   </a>
 </td>
