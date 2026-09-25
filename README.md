@@ -36,8 +36,6 @@
   </a>
 </p>
 
-
-<br>
 <br>
 
 ## Stack principal
