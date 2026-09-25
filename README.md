@@ -110,6 +110,15 @@
 </table>
 
 </div>
+
+
+<br>
+
+  <div align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nalleon&layout=compact&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10" width="300" alt="Top Languages"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nalleon&theme=swift&hide_border=false" width="470" alt="GitHub Streak" style="vertical-align: top;"/>  
+  </div>
+  
 <br>
 <br>
 
@@ -317,16 +326,7 @@ Repositorio que recoge todas las actividades y proyectos realizadas para la asig
 
 </table>
 
----
 
-<br>
-
-  <div align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nalleon&layout=compact&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10" width="300" alt="Top Languages"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nalleon&theme=swift&hide_border=false" width="470" alt="GitHub Streak" style="vertical-align: top;"/>  
-  </div>
-  
-<br>
 
 
 </div>
