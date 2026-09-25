@@ -234,7 +234,6 @@ Repositorio que recoge todas las actividades y proyectos realizadas para la asig
 
 </details>
 
-<br/>
 
 <p align="justify">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -290,8 +289,6 @@ Repositorio que recoge todas las actividades y proyectos realizadas para la asig
   - [Tres en Raya (Cliente)](https://github.com/nalleon/pgl-nabil/tree/main/exam-activities/TicTacToe/)
 
 </details>
-
-<br/>
 
 <p align="justify">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
