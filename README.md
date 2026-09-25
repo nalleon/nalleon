@@ -141,6 +141,7 @@ Aplicación web orientada al coleccionismo de videojuegos tanto físico como dig
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
@@ -208,6 +209,9 @@ Aplicación movil orientada al coleccionismo de videojuegos tanto físico como d
 
 Repositorio que recoge todas las actividades y proyectos realizadas para la asignatura de Acceso a Datos (AED) realizados durante el curso 2024-2025.
 
+<details closed>
+<summary><strong>Contenido</strong></summary>
+
 - [Dossier - PHP](https://github.com/nalleon/aed-nabil/tree/main/unit-01/dossier-php/)
 - [Dossier - PHP/Laravel](https://github.com/nalleon/aed-nabil/tree/main/unit-01/dossier-laravel/)
 - [Dossier - Laravel/Eloquent](https://github.com/nalleon/aed-nabil/tree/main/unit-03/dossier-eloquent/)
@@ -228,8 +232,11 @@ Repositorio que recoge todas las actividades y proyectos realizadas para la asig
 - [Instituto - API](https://github.com/nalleon/aed-nabil/tree/main/exam-activities/institutov2)
 - [Tres en raya - API](https://github.com/nalleon/aed-nabil/tree/main/exam-activities/tictactoe)
 
-<p align="justify">
+</details>
 
+<br/>
+
+<p align="justify">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
@@ -267,6 +274,9 @@ Repositorio que recoge todas las actividades y proyectos realizadas para la asig
 
 Repositorio que recoge todas las actividades y proyectos realizadas para la asignatura de Programación Multimedia y Dispositivos Móviles (PGL) realizados durante el curso 2024-2025.
 
+<details closed>
+<summary><strong>Contenido</strong></summary>
+
   - [Dossier - Node](https://github.com/nalleon/pgl-nabil/tree/main/unit-01/dossier-node/)
   - [Dossier - JS+TS/React](https://github.com/nalleon/pgl-nabil/tree/main/unit-01/dossier-react/)
   - [Dossier - TS/React Native](https://github.com/nalleon/pgl-nabil/tree/main/unit-02/dossier-react-native/)
@@ -279,17 +289,17 @@ Repositorio que recoge todas las actividades y proyectos realizadas para la asig
   - [Gestión de Instituto (Cliente)](https://github.com/nalleon/pgl-nabil/tree/main/exam-activities/instituto-app/)
   - [Tres en Raya (Cliente)](https://github.com/nalleon/pgl-nabil/tree/main/exam-activities/TicTacToe/)
 
-<p align="justify">
+</details>
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" >
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JaCoCo-EF2D5E?style=flat-square&logo=jacoco&logoColor=white" />
+<br/>
+
+<p align="justify">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
